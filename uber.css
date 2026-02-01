@@ -84,7 +84,7 @@ nav>h1{
 }
 nav>h1:hover{
     background-color: #dcdcdc;
-    border-radius: 50%;
+    border-radius: 20px;
     padding: 8px 0px;
 }
 nav>ul{
@@ -423,3 +423,4 @@ nav>ul>li>a:hover{
 .footer-legal a:hover {
   color: #fff;
 }
+
